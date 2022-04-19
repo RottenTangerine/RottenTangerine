@@ -10,19 +10,20 @@
   <p>📈Data Visualization</p>
   <p>🧮Data Structure & Algorithm</p>
   <br>
-  <p>🎉🎉🎉Feel free to visit🎉🎉🎉</p>
+  <p>🎉🎉🎉Feel free to visit and have fun!🎉🎉🎉</p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RottenTangerine&theme=blue-black&bg_color=00000000&layout=compact")
   </p>
 </div>
+
 <div align="center">
-  <h2>Social Media📷</h2>
+  <h3>Social Media📷</h3>
   <p>
     <img height="16px" src="img/twitter_ico.png"> <a href="https://twitter.com/xiang_eden">Twitter</a> | 
     <img height="16px" src="img/facebook_ico.png"> <a href="https://www.facebook.com/eden.xiang.50">FaceBook</a> | 
     <img height="16px" src="img/bilibili_ico.png"> <a href="https://space.bilibili.com/12191922">BiliBili</a> | 
-    <img height="16px" src="img/wechat_ico.png"> <a href="https://github.com/RottenTangerine/RottenTangerine/blob/main/img/wechat_official_account.jpg">WeChat</a> | 
-    <img height="16px" src="img/wechat_ico.png"> <a href="https://github.com/RottenTangerine/RottenTangerine/blob/main/img/wechat_qr.png">Official Account</a>
+    <img height="16px" src="img/wechat_ico.png"> <a href="https://github.com/RottenTangerine/RottenTangerine/blob/main/img/wechat_qr.png">WeChat</a> | 
+    <img height="16px" src="img/wechat_ico.png"> <a href="https://github.com/RottenTangerine/RottenTangerine/blob/main/img/wechat_official_account.jpg">WeChat Official Account</a>
   </p>
   <p>To be honest, I don't spend much time on social media😥</p>
   <p>The ones listed above are more like placeholders</p>
@@ -31,12 +32,6 @@
   <p><img height="16px" src="img/foxmail_ico.png"> <a href="https://www.foxmail.com/">Foxmail</a>: EdenXiang@foxmail.com</p>
 </div>
 
-
-
-<div>
-<h3><ins>About Rotten Tangerine</ins>🍊</h3>
-<p>Rotten Tangerine represent an attitude towards life ... (to be continued)</p>
-</div>
 
 
 
