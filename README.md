@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi👋, I'm <a href="https://EdenXiang.link">Eden Xiang</a>😃 </h2>
+  <h2>Hi👋, I'm <a href="https://EdenXiang.link" target="_blank">Eden Xiang</a>😃 </h2>
   <p>🧑🏼‍🎓Bachelor student of Macau Polytechnic University (Year 4)</p>
   <p>
     <img src="https://img.shields.io/github/stars/RottenTangerine?style=social" alt="github stars">
@@ -19,11 +19,11 @@
 <div align="center">
   <h3>Social Media📷</h3>
   <p>
-    <img height="16px" src="img/twitter_ico.png"> <a href="https://twitter.com/xiang_eden">Twitter</a> | 
-    <img height="16px" src="img/facebook_ico.png"> <a href="https://www.facebook.com/eden.xiang.50">FaceBook</a> | 
-    <img height="16px" src="img/bilibili_ico.png"> <a href="https://space.bilibili.com/12191922">BiliBili</a> | 
-    <img height="16px" src="img/wechat_ico.png"> <a href="https://github.com/RottenTangerine/RottenTangerine/blob/main/img/wechat_qr.png">WeChat</a> | 
-    <img height="16px" src="img/wechat_ico.png"> <a href="https://github.com/RottenTangerine/RottenTangerine/blob/main/img/wechat_official_account.jpg">WeChat Official Account</a>
+    <img height="16px" src="img/twitter_ico.png"> <a href="https://twitter.com/xiang_eden" target="_blank">Twitter</a> | 
+    <img height="16px" src="img/facebook_ico.png"> <a href="https://www.facebook.com/eden.xiang.50" target="_blank">FaceBook</a> | 
+    <img height="16px" src="img/bilibili_ico.png"> <a href="https://space.bilibili.com/12191922" target="_blank">BiliBili</a> | 
+    <img height="16px" src="img/wechat_ico.png"> <a href="https://github.com/RottenTangerine/RottenTangerine/blob/main/img/wechat_qr.png" target="_blank">WeChat</a> | 
+    <img height="16px" src="img/wechat_ico.png"> <a href="https://github.com/RottenTangerine/RottenTangerine/blob/main/img/wechat_official_account.jpg" target="_blank">WeChat Official Account</a>
   </p>
   <p>To be honest, I don't spend much time on social media😥</p>
   <p>The ones listed above are more like placeholders</p>
