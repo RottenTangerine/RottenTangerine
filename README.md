@@ -22,7 +22,6 @@
     <img height="16px" src="img/twitter_ico.png"> <a href="https://twitter.com/xiang_eden" target="_blank">Twitter</a> | 
     <img height="16px" src="img/facebook_ico.png"> <a href="https://www.facebook.com/eden.xiang.50" target="_blank">FaceBook</a> | 
     <img height="16px" src="img/bilibili_ico.png"> <a href="https://space.bilibili.com/12191922" target="_blank">BiliBili</a> | 
-    <img height="16px" src="img/wechat_ico.png"> <a href="https://github.com/RottenTangerine/RottenTangerine/blob/main/img/wechat_qr.png" target="_blank">WeChat</a> | 
     <img height="16px" src="img/wechat_ico.png"> <a href="https://github.com/RottenTangerine/RottenTangerine/blob/main/img/wechat_official_account.jpg" target="_blank">WeChat Official Account</a>
   </p>
   <p>To be honest, I don't spend much time on social media😥</p>
