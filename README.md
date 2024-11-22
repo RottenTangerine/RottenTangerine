@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi👋, I'm <a href="https://EdenXiang.link" target="_blank">Eden Xiang</a>😃 </h2>
-  <p>Azure OpenAI support engeneer</p>
+  <p>Azure OpenAI/Machine Learning/Cognitive Service Support Engineer</p>
   <p>
     <img src="https://img.shields.io/github/stars/RottenTangerine?style=social" alt="github stars">
     <img src="https://img.shields.io/github/followers/RottenTangerine?style=social" alt="github followers">
@@ -24,10 +24,10 @@
     <img height="16px" src="img/bilibili_ico.png"> <a href="https://space.bilibili.com/12191922" target="_blank">BiliBili</a> | 
     <img height="16px" src="img/wechat_ico.png"> <a href="https://github.com/RottenTangerine/RottenTangerine/blob/main/img/wechat_official_account.jpg" target="_blank">WeChat Official Account</a>
   </p>
-  <p>To be honest, I don't spend much time on social media😥</p>
+  <p> I don't spend much time on social media😥</p>
   <p>The ones listed above are more like placeholders</p>
   <p>If you want to contact me😇, please send email to:</p>
-  <p><img height="16px" src="img/gmail_ico.png"> <a href="https://mail.google.com/">Gmail</a>: xiangxuan64@gmail.com</p>
+  <p><img height="16px" src="img/gmail_ico.png"> <a href="https://mail.google.com/">ICloud</a>: xuanxiang64@icoud.com</p>
   <p><img height="16px" src="img/foxmail_ico.png"> <a href="https://www.foxmail.com/">Foxmail</a>: EdenXiang@foxmail.com</p>
 </div>
 
