@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi👋, I'm <a href="https://EdenXiang.link" target="_blank">Eden Xiang</a>😃 </h2>
-  <p>🧑🏼‍🎓Bachelor student of Macau Polytechnic University (Year 4)</p>
+  <p>Azure OpenAI support engeneer</p>
   <p>
     <img src="https://img.shields.io/github/stars/RottenTangerine?style=social" alt="github stars">
     <img src="https://img.shields.io/github/followers/RottenTangerine?style=social" alt="github followers">
