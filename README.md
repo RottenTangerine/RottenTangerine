@@ -1,16 +1,12 @@
 <div align="center">
-  <h2>Hi👋, I'm <a href="https://EdenXiang.link" target="_blank">Eden Xiang</a>😃 </h2>
+  <h2>Hi👋, I'm <a href="https://xhonxyun.site" target="_blank">Eden Xiang</a>😃 </h2>
   <p>Azure OpenAI/Machine Learning/Cognitive Service Support Engineer</p>
   <p>
     <img src="https://img.shields.io/github/stars/RottenTangerine?style=social" alt="github stars">
     <img src="https://img.shields.io/github/followers/RottenTangerine?style=social" alt="github followers">
   </p>
-  <h3>I'm currently learning ...</h3>
-  <p>🤖Machine Learning</p>
-  <p>📈Data Visualization</p>
-  <p>🧮Data Structure & Algorithm</p>
   <br>
-  <p>🎉🎉🎉Feel free to visit and have fun!🎉🎉🎉</p>
+  <p>🎉🎉🎉Feel free to visit <a href="https://xhonxyun.site" target="_blank">my website</a> and have fun!🎉🎉🎉</p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RottenTangerine&theme=blue-black&bg_color=00000000&layout=compact")
   </p>
